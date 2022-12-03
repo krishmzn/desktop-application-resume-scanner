@@ -1,6 +1,6 @@
 # ATS Resume Scanner
-## This is a resume checking application
-## Follow these steps to check this out
+## This desktop application scans for keywords in the resumes provided by the user.
+## Follow these steps to check it out
 ### Step 1:- Simply download or clone this repository
 ### Step 2:- Put all your resumes inside the resumes folder (not inside resume/report)
 ### Step 3:- Run 'Resume Scan.exe'
